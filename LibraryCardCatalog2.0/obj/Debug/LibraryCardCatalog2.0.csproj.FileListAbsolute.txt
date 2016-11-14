@@ -1,0 +1,6 @@
+C:\Users\Jerry\Desktop\Coding Temple\Week1\LibraryCardCatalog2.0\LibraryCardCatalog2.0\bin\Debug\LibraryCardCatalog2.0.exe.config
+C:\Users\Jerry\Desktop\Coding Temple\Week1\LibraryCardCatalog2.0\LibraryCardCatalog2.0\bin\Debug\LibraryCardCatalog2.0.exe
+C:\Users\Jerry\Desktop\Coding Temple\Week1\LibraryCardCatalog2.0\LibraryCardCatalog2.0\bin\Debug\LibraryCardCatalog2.0.pdb
+C:\Users\Jerry\Desktop\Coding Temple\Week1\LibraryCardCatalog2.0\LibraryCardCatalog2.0\obj\Debug\LibraryCardCatalog2.0.csprojResolveAssemblyReference.cache
+C:\Users\Jerry\Desktop\Coding Temple\Week1\LibraryCardCatalog2.0\LibraryCardCatalog2.0\obj\Debug\LibraryCardCatalog2.0.exe
+C:\Users\Jerry\Desktop\Coding Temple\Week1\LibraryCardCatalog2.0\LibraryCardCatalog2.0\obj\Debug\LibraryCardCatalog2.0.pdb
